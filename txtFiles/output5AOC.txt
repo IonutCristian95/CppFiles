@@ -1,2 +1,0 @@
-Highest seat ID is 955
-My seat ID is 0
